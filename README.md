@@ -1,4 +1,4 @@
-# CreativeAI: Multilayer Chaos GAN Image Generator
+# CreativeAI: Multilayered Chaotic GAN Image Generator
 
 This project is a fun experiment on the generation of artistic images using multilayered chaotic functions on Generative Adversarial Network (GAN) architecture. This serves as a fun test to delve into the philosophy of creativity: "creativity can be described as multilayered chaotic functions that are perfectly tuned. Slight change in the parameters of chaos functions leads to insanity and chaos rather than creativity." That philosophy is just my 3am thoughts btw :) Note that this project is just for fun and not for research purposes (although this might be a fun and useful research in the future to develop an AI that is truly creative or even conscious) 
 
@@ -17,8 +17,8 @@ This project is a fun experiment on the generation of artistic images using mult
 1.  **Clone the repository:**
     ```bash
     cd ~
-    git clone https://github.com/howardtse2005/CreativeAI-Multilayer-Chaos-GAN-Image-Generator.git
-    cd CreativeAI-Multilayer-Chaos-GAN-Image-Generator/
+    git clone https://github.com/howardtse2005/Multilayered-Chaotic-GAN.git
+    cd Multilayered-Chaotic-GAN/
     ```
 
 2.  **Install dependencies:**
