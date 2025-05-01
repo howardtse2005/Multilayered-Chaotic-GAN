@@ -39,7 +39,6 @@ This project is a fun experiment on the generation of artistic images using mult
     cd codes/
     python3 rename.py
     python3 writer.py
-    conda install pytorch::torchvision conda-forge::pytorch conda-forge::pillow "numpy<2"
     ```
 6.  **Train the model:**
     ```bash
