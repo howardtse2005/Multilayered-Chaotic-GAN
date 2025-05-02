@@ -2,6 +2,14 @@
 
 This project is a fun experiment on the generation of artistic images using multilayered chaotic functions on Generative Adversarial Network (GAN) architecture. This serves as a fun test to delve into the philosophy of creativity: "creativity can be described as multilayered chaotic functions that are perfectly tuned. Slight change in the parameters of chaos functions leads to insanity and chaos rather than creativity." That philosophy is just my 3am thoughts btw :) Note that this project is just for fun and not for research purposes (although this might be a fun and useful research in the future to develop an AI that is truly creative or even conscious) 
 
+## Video Demo
+This video shows the output images (timelapse) after several epochs.
+
+
+https://github.com/user-attachments/assets/bbccea69-b7d4-461d-adc7-6c5be008c2ea
+
+
+
 ## System Components
 
 1.  **ChaosGovernor:** Controls the chaotic behavior of the noise generation by dynamically adjusting a logistic map parameter based on diversity and similarity metrics.
