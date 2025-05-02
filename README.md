@@ -1,6 +1,6 @@
 # CreativeAI: Multilayered Chaotic GAN Image Generator
 
-This project is a fun experiment on the generation of artistic images using multilayered chaotic functions rather than traditional linear Gaussian functions on Generative Adversarial Network (GAN) architecture. This serves as a test to the philosophy of creativity: "creativity can be described as multilayered chaotic functions that are perfectly tuned. Slight change in the parameters of chaos functions leads to insanity and chaos rather than creativity." That philosophy is just my 3am thoughts btw :) Note that this project is just for fun and not for research purposes (although this might be a useful research in the future to develop an AI that is truly creative or even conscious) 
+This project is a fun experiment on the generation of artistic images using multilayered chaotic functions (based on Lorenz and Rössler attractors) rather than traditional linear Gaussian functions on Generative Adversarial Network (GAN) architecture. This serves as a test to the philosophy of creativity: "creativity can be described as multilayered chaotic functions that are perfectly tuned. Slight change in the parameters of chaos functions leads to insanity and chaos rather than creativity." That philosophy is just my 3am thoughts btw :) Note that this project is just for fun and not for research purposes (although this might be a useful research in the future to develop an AI that is truly creative or even conscious) 
 
 ## Video Demo
 This video shows the output images (timelapse) after several epochs.
