@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/bbccea69-b7d4-461d-adc7-6c5be008c2ea
     ```
     (You may need to adjust this command based on your CUDA configuration if using a GPU. See the PyTorch documentation for details.)
 
-4.  **Prepare the image dataset:**
+3.  **Prepare the image dataset:**
     Sample images can be found on Kaggle: https://www.kaggle.com/datasets/heyitsfahd/paintings. Create sample_input directory and put the images under sample_input directory.
     ```bash
     mkdir sample_input && cd ..
@@ -48,13 +48,13 @@ https://github.com/user-attachments/assets/bbccea69-b7d4-461d-adc7-6c5be008c2ea
     python3 rename.py
     python3 writer.py
     ```
-6.  **Train the model:**
+4.  **Train the model:**
     ```bash
     python3 train.py
     ```
     (Training can take a significant amount of time, especially on a CPU. Consider using a GPU for faster training.)
 
-7.  **Generate images:**
+5.  **Generate images:**
     After training, you can see the generated images (every 10 epochs) under the sample_output. Or you can test it using test.py:
     ```bash
     python3 test.py
